@@ -1,3 +1,6 @@
+![npm](https://img.shields.io/npm/v/escape-unescape-html-characters)
+![npm bundle size (version)](https://img.shields.io/bundlephobia/min/escape-unescape-html-characters/0.1.0)
+
 Thanks for checking out the package.
 
 **USAGE:**
