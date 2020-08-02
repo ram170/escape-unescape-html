@@ -1,6 +1,6 @@
 {
   "name": "escape-unescape-html-characters",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "description": "This package will convert escaped html characters to unescaped characters and vice versa.",
   "main": "index.js",
   "scripts": {

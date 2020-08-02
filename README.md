@@ -27,10 +27,6 @@ console.log(packageModule.unescapeHtml('&lt;script&gt;alert(&quot;1&quot;)&lt;/s
 **Release Notes:** <br/>
 
 **v0.0.1** - Initial commit and doesn't provide support to few symbols(" and ') while escaping. This can be used if you only want to escape < and > <br/>
-**v0.0.2** - Provided support for those symbols and added Readme. <br/>
-**v0.0.3** - Fixed Readme mistakes. <br/>
-**v0.0.4** - Added line break in Readme (Rookie mistake). <br/>
-
-It is recommended to use v0.0.2 or v0.0.3 or v0.0.4 (They're all same except for the change in readme). Will release a stable package with tag **v1.0.0** with tests soon.
+**v0.1.0** - Provided support for those symbols and added Readme. <br/>
 
 
